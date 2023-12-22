@@ -345,6 +345,29 @@ Student.eat(stu1)
 
 
 
+# 机器学习库
+
+## 必要软件
+
+~~~bash
+pip install jupyter -i  https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install numpy -i  https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install pandas -i  https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install sklearn -i  https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install jupyter -i  https://pypi.tuna.tsinghua.edu.cn/simple/
+~~~
+
+
+
+## 启动
+
+~~~bash
+jupyter notebook
+~~~
+
+
+
 
 
 # 虚拟环境
